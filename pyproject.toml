@@ -1,10 +1,19 @@
 [project]
 name = "ofwhich"
 version = "0.1.0"
-description = "Add your description here"
+authors = [
+  { name="Em Oaken", email="mr.oaken@ik.me" },
+]
+description = "Drill-down through your dataframe."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
 
 [build-system]
 requires = ["hatchling"]
