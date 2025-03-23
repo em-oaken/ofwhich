@@ -36,11 +36,10 @@ df.head()
 ```
 ```
   Category  Bool
-0        X  True
-1        X  True
-2        Y  True
-3        Z  True
-4        Z  True
+0        Z  True
+1        X  False
+2        Y  False
+...
 ```
 
 2. Use ofwhich:
